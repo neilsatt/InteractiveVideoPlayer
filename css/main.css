@@ -21,6 +21,13 @@ body {
     display: inline-block;
 }
 
+.transcript {
+    margin: 0 auto;
+    display: block;
+    width: 45%;
+    text-align: left;
+}
+
 
 
 
