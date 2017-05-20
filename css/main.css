@@ -9,24 +9,50 @@ body {
   color: #384047;
 }
 
-
-
-.wrapper {
-     width: 100%;
-    text-align: center;
-}
-
 .videoWrapper {
+    min-width: 338px;
     margin: 0 auto;
-    display: inline-block;
 }
 
 .transcript {
     margin: 0 auto;
     display: block;
-    width: 800px;
+    width: 300px;
     text-align: left;
 }
+
+
+/* ================================= 
+  Media Query
+==================================== */
+
+
+/* 768 px or wider */
+@media (min-width: 768px) {
+    
+     .transcript {
+        margin: 0 auto;
+        display: block;
+        width: 765px;
+        text-align: left;
+    }
+    
+     .wrapper {
+        margin-top: 20px;
+    }
+    
+
+    .videoWrapper {
+       margin-top: 10px;
+       max-width: 800px;
+       max-height: 480px;
+       margin: 0 auto;
+
+    }
+  
+}
+    
+
 
 
 

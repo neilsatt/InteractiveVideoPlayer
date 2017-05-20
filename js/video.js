@@ -1,6 +1,5 @@
 document.addEventListener('DOMContentLoaded', function() {
-
-
+    
     // Highlight text as it is spoken - get reference to video element
     let myVideo = document.getElementById("mainVideo");
 
