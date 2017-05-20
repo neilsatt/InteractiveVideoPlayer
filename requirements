@@ -6,7 +6,7 @@ Implement the mediaelement.js library - DONE
     
     
 Embed the two video formats using HTML - DONE
-    Check that the video works in at least three modern browsers. Please use Chrome and Firefox, Internet Explorer if you have a PC, and Safari if you have a Mac.
+    Check that the video works in at least three modern browsers. Please use Chrome and Firefox, Internet Explorer if you have a PC, and Safari if you have a Mac - DONE
     Ensure that all controls work as expected in each browser you test. Check the following - DONE
     Play and pause functionality
     Full screen mode
@@ -29,4 +29,4 @@ Style the page to roughly match the mockups for mobile and tablet-desktop as gui
     
 Check in Edge, Chrome, and Firefox - DONE
 
-Do CSS and HTML Validation - 
+Do CSS and HTML Validation - DONE
